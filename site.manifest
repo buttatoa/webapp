@@ -1,0 +1,24 @@
+{
+ "name": "Blog Buttatoa",
+ "short_name": "Blog Buttatoa",
+ "icons": 
+ [
+     {
+       "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhUkLqPQojpOuUoehdynorEEx_GmxARFtzkN7slDSSHYqI6_JmZ8mrMV5ntx675SrquP0_dsIWYQfAh7nqfR5ZJUDR0Dm83221OK6gks6NrYztzAlqwvGYxv0in5mYnc4kCI4Jy-Gurq-sUMnLWJbbJh_vTpZtGDStFqvsEKDoaOmx4rRp2aJ77DrELGg=s200",
+       "sizes": "192x192",
+       "type": "image/png",
+       "purpose": "any maskable"
+     },
+     {
+       "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhUkLqPQojpOuUoehdynorEEx_GmxARFtzkN7slDSSHYqI6_JmZ8mrMV5ntx675SrquP0_dsIWYQfAh7nqfR5ZJUDR0Dm83221OK6gks6NrYztzAlqwvGYxv0in5mYnc4kCI4Jy-Gurq-sUMnLWJbbJh_vTpZtGDStFqvsEKDoaOmx4rRp2aJ77DrELGg=s200",
+       "sizes": "512x512",
+       "type": "image/png",
+       "purpose": "any maskable"
+     }
+ ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.blogbuttatoa.my.id"
+}
